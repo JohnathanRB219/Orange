@@ -1,0 +1,54 @@
+div{
+	background-color:#FE7E00;
+	width: 10%;
+
+
+}
+.navbar-brand{
+	color:white;
+	text-align: center;
+	margin:25px;
+
+}
+li a{
+	color: #F5BB7C;
+	font-size: 15px;
+}
+input{
+	float: right;
+	height: 50px;
+	margin:15px 30px 27px 27px;
+	background-color:#F0F0F0;
+}
+img{
+	width:30%;
+	margin-left:70px;
+}
+p{
+	background-color: white;
+	font-size: 30px;
+	float: right;
+	width: 500px;
+}
+section{
+	text-align: center;
+
+}
+button{
+	border: none;
+	height: 50px;
+	width:200px;
+
+}
+.button{
+	color:#DCEEED;
+	margin-left:90px;
+}
+
+.icon-bar{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 100px;
+	background-color: #7CCCCB;
+	height: 150px;
+}
